@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Afrah4331&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrah4331&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
